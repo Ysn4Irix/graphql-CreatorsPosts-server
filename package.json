@@ -1,0 +1,25 @@
+{
+  "name": "creatorsposts_graphql_server",
+  "description": "A Graphql Server for creators and posts with relations",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ysn4Irix",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-core": "^3.4.0",
+    "apollo-server-express": "^3.4.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "graphql": "^15.6.1",
+    "graphql-iso-date": "^3.6.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.0.11",
+    "morgan": "^1.10.0"
+  }
+}
