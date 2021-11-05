@@ -1,5 +1,5 @@
 <p align="center">
- <img width="150px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1636141782/r6obdkhwfubdoexxtwck.svg" align="center" alt="graphqlLogo" />
+ <img width="160px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1636141782/r6obdkhwfubdoexxtwck.svg" align="center" alt="graphqlLogo" />
 </p>
 
 <h1 align="center">Graphql Creators & Posts Server</h1>
