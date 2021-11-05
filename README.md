@@ -16,7 +16,7 @@ Clone
 Install the dependencies and start the production.
 
 ```sh
-cd graphql-CreatorsPosts
+cd graphql-CreatorsPosts-server
 npm install
 npm start or npm run devStart
 ```

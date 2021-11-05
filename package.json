@@ -1,5 +1,5 @@
 {
-  "name": "creatorsposts_graphql_server",
+  "name": "graphql-creatorsposts-server",
   "description": "A Graphql Server for creators and posts with relations",
   "version": "1.0.0",
   "private": true,
