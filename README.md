@@ -6,7 +6,7 @@
 
 Give me a Star 🌟
 
-A Graphql Server for creators and posts with relations build using [Graphql](https://nodejs.org) & [Apollo Server](https://nodejs.org) & [Express](https://expressjs.com) & [MongoDB](https://www.mongodb.com/)
+A Graphql Server for creators and posts with relations build using [Graphql](https://graphql.org) & [Apollo Server](https://apollographql.com) & [Express](https://expressjs.com) & [MongoDB](https://www.mongodb.com/)
 
 ## Installation
 
