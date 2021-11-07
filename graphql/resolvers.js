@@ -5,7 +5,6 @@ const {
   UserInputError,
   AuthenticationError,
 } = require("apollo-server-express");
-const { writeFileSync } = require("fs");
 
 const resolvers = {
   Query: {
